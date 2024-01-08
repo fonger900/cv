@@ -28,7 +28,7 @@ export const RESUME_DATA = {
   about:
     "C++ Game Programmer Working intern",
   summary:
-    "As a former web programmer, I am seeking a transition into the field of game development. My short-term goal is to improve my Game development skills. My long-term goal is becoming an indie game developer and creating and launching successful games.",
+    "As a former web programmer, I am seeking a transition into the field of game development. My short-term goal is to improve my Game development skills(C++/Unity/Game Design). My long-term goal is becoming an indie game developer and creating and launching successful games.",
   avatarUrl: "https://avatars.githubusercontent.com/u/15725832?v=4",
   personalWebsiteUrl: "https://phong-cv.vercel.app/",
   contact: {
