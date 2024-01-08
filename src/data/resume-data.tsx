@@ -26,9 +26,9 @@ export const RESUME_DATA = {
   location: "Nam Tu Liem, Hanoi, VN",
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
-    "Full Stack Developer",
+    "C++ Game Programmer Working intern",
   summary:
-    "As a seasoned software developer with a cumulative 5 years of experience, I have a specialized focus on the Laravel framework for the past 3 years and the FastAPI framework for 2 years. My skill set extends to DevOps such as Linux System Administration, Docker, and CI/CD, and I have also delved into frontend development using JavaScript frameworks such as Vue.js.",
+    "As a former web programmer, I am seeking a transition into the field of game development. My short-term goal is to improve my Game development skills. My long-term goal is becoming an indie game developer and creating and launching successful games.",
   avatarUrl: "https://avatars.githubusercontent.com/u/15725832?v=4",
   personalWebsiteUrl: "https://phong-cv.vercel.app/",
   contact: {
